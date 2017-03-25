@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="searchhint">Search images here</string>
+    <string name="title_activity_full_image">FullImage</string>
+</resources>
